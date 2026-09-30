@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#FAF7F0"/><rect x="60" y="60" width="1080" height="510" rx="48" fill="#F6E7BD"/><g transform="translate(90,100) scale(2.1)">  <path d="M172,120 C172.52,128.66 164.94,138.16 159.24,146.68 C153.54,155.19 147.67,166.9 137.8,171.07 C127.93,175.23 112.3,172.07 100,171.67 C87.7,171.26 75.22,172.19 64,168.64 C52.78,165.08 38.3,158.43 32.66,150.33 C27.02,142.22 28.6,129.41 30.16,120 C31.72,110.59 36.61,102.32 42.01,93.89 C47.41,85.46 52.9,74.05 62.56,69.42 C72.22,64.79 87.64,65.92 100,66.09 C112.36,66.25 127.37,65.62 136.72,70.39 C146.07,75.16 150.24,86.46 156.12,94.73 C162,103 171.48,111.34 172,120 Z" fill="#C9955A" stroke="#3B2A1E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M51.76,98.4 A23.04,11.52 0 1 0 97.84,98.4 A23.04,11.52 0 1 0 51.76,98.4 Z" fill="#DDB47E"/>
+  <path d="M51.76,123.6 A3.6,2.88 0 1 0 58.96,123.6 A3.6,2.88 0 1 0 51.76,123.6 Z" fill="#8B5E34"/>
+  <path d="M135.28,141.6 A4.32,3.46 0 1 0 143.92,141.6 A4.32,3.46 0 1 0 135.28,141.6 Z" fill="#8B5E34"/>
+  <path d="M111.16,82.56 A3.24,2.59 0 1 0 117.64,82.56 A3.24,2.59 0 1 0 111.16,82.56 Z" fill="#8B5E34"/>
+  <path d="M75.52,152.4 A2.88,2.3 0 1 0 81.28,152.4 A2.88,2.3 0 1 0 75.52,152.4 Z" fill="#8B5E34"/>
+  <path d="M147.52,105.6 A2.88,2.3 0 1 0 153.28,105.6 A2.88,2.3 0 1 0 147.52,105.6 Z" fill="#8B5E34"/>
+  <path d="M69.04,130.08 A5.04,2.88 0 1 0 79.12,130.08 A5.04,2.88 0 1 0 69.04,130.08 Z" fill="#E8866F"/>
+  <path d="M120.88,130.08 A5.04,2.88 0 1 0 130.96,130.08 A5.04,2.88 0 1 0 120.88,130.08 Z" fill="#E8866F"/>
+  <path d="M100,176 L76,164 L76,188 Z" fill="#C8414B" stroke="#3B2A1E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100,176 L124,164 L124,188 Z" fill="#C8414B" stroke="#3B2A1E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M97,169 H103 A4,4 0 0 1 107,173 V179 A4,4 0 0 1 103,183 H97 A4,4 0 0 1 93,179 V173 A4,4 0 0 1 97,169 Z" fill="#A8323A" stroke="#3B2A1E" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80,172 A2,2 0 1 0 84,172 A2,2 0 1 0 80,172 Z" fill="#FFFFFF"/>
+  <path d="M82,182 A2,2 0 1 0 86,182 A2,2 0 1 0 82,182 Z" fill="#FFFFFF"/>
+  <path d="M116,172 A2,2 0 1 0 120,172 A2,2 0 1 0 116,172 Z" fill="#FFFFFF"/>
+  <path d="M114,182 A2,2 0 1 0 118,182 A2,2 0 1 0 114,182 Z" fill="#FFFFFF"/>
+  <path d="M90,147 Q100,164 110,147 Z" fill="#5A2A22" stroke="#3B2A1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M92,148 L108,148 L106.5,151.5 L93.5,151.5 Z" fill="#FFFFFF"/>
+  <path d="M100,135.5 C92,133.5 84,137.5 74,137 C64,136.5 60,130 64,125 C66,122 70,124 68,127" fill="none" stroke="#3B2A1E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100,135.5 C108,133.5 116,137.5 126,137 C136,136.5 140,130 136,125 C134,122 130,124 132,127" fill="none" stroke="#3B2A1E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80.6,120.56 Q85.6,112.56 90.6,120.56" fill="none" stroke="#3B2A1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M109.4,120.56 Q114.4,112.56 119.4,120.56" fill="none" stroke="#3B2A1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M103.4,118.56 A11,11 0 1 0 125.4,118.56 A11,11 0 1 0 103.4,118.56 Z" fill="none" stroke="#C9A227" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M122.4,126.56 Q134.4,148.56 122.4,166.56" fill="none" stroke="#C9A227" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44,90 Q34,54 88,42 Q148,32 176,58 Q184,72 166,78 Q140,70 104,74 Q70,78 44,90 Z" fill="#1F2A44" stroke="#3B2A1E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44,90 Q70,76 104,72 Q140,68 166,78 Q170,84 162,86 Q136,78 104,80 Q72,84 48,96 Z" fill="#2B3A5E" stroke="#3B2A1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M103.14,42.63 L105.14,32.63 A3.2,3.2 0 0 0 98.86,31.37 L96.86,41.37 A3.2,3.2 0 0 0 103.14,42.63 Z" fill="#1F2A44" stroke="#3B2A1E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64.3,57.47 A20,6 -10 1 0 103.7,50.53 A20,6 -10 1 0 64.3,57.47 Z" fill="#3C4E78"/></g><text x="560" y="270" font-family="Fredoka, Nunito, sans-serif" font-weight="600" font-size="84" fill="#3B2A1E">Potato Tracker</text><text x="562" y="345" font-family="Nunito, sans-serif" font-weight="700" font-size="31" fill="#7C6B59">Log every spud. Earn potato points.</text><text x="562" y="395" font-family="Nunito, sans-serif" font-weight="700" font-size="31" fill="#7C6B59">Collect silly badges.</text><text x="562" y="470" font-family="Nunito, sans-serif" font-weight="800" font-size="28" fill="#8B5E34">by Happy Rose LLC</text>
+</svg>

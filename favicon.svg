@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Happy Rose logo">
+  <path d="M50 70 C50 80 49 88 47 96" fill="none" stroke="#3B7A34" stroke-width="5" stroke-linecap="round"/>
+  <path d="M49 85 C40 76 29 78 23 83 C31 91 42 91 49 85 Z" fill="#6DBA5A" stroke="#3A2230" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M50 8 C62 6 74 12 80 22 C89 29 92 41 87 52 C85 64 75 73 62 75 C54 79 46 79 38 75 C25 73 15 64 13 52 C8 41 11 29 20 22 C26 12 38 6 50 8 Z" fill="#E8637F" stroke="#3A2230" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M30 34 C31 17 69 15 70 34" fill="none" stroke="#3A2230" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M42 30 C41 22 58 20 59 28 C60 34 49 36 47 30 C46 27 51 25 53 28" fill="none" stroke="#3A2230" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="33" cy="56" r="4.5" fill="#F7A7B8"/>
+  <circle cx="67" cy="56" r="4.5" fill="#F7A7B8"/>
+  <circle cx="40" cy="47" r="3.4" fill="#3A2230"/>
+  <circle cx="60" cy="47" r="3.4" fill="#3A2230"/>
+  <path d="M42 57 Q50 65 58 57" fill="none" stroke="#3A2230" stroke-width="3" stroke-linecap="round"/>
+</svg>
