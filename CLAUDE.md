@@ -1,6 +1,6 @@
 # Happy Rose LLC website
 
-The company site for Happy Rose LLC (a Colorado LLC that publishes mobile apps), live at **https://happyrose.io**. Decisions and the TODO list are in [docs/PLAN.md](docs/PLAN.md), and the company brand is in [docs/DESIGN.md](docs/DESIGN.md).
+The company site for Happy Rose LLC (a Colorado LLC that publishes mobile apps), live at **https://happyrose.io**. Decisions and the TODO list are in [docs/PLAN.md](docs/PLAN.md), and the company brand is in [docs/DESIGN.md](docs/DESIGN.md). [CONTRIBUTING.md](CONTRIBUTING.md) has the full how-to: structure, adding an app, DNS and HTTPS, and gotchas.
 
 ## Start of every session: check the website kit
 
