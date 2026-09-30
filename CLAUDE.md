@@ -9,6 +9,7 @@ The Potato Tracker pages (`apps/potato-tracker/`) get their content from the app
 - `CHANGELOG.md`: newest first. Each entry says what changed and which site pages it affects
 - `README.md`: the asset guide, the colour table and links to the app's design docs
 - `copy.md`: the page text
+- `privacy-facts.md` (once the app repo adds it): the source of truth for the legal pages. It lists every SDK, permission, piece of data stored on the phone or sent off it, third party, retention period, deletion method, age rule and price. When it changes, update `apps/potato-tracker/privacy/`, `community-guidelines/` and, where relevant, `/terms/` and `/privacy/`
 
 Before anything else:
 1. Read the **Kit sync** section at the bottom of this file for the last synced changelog entry and PotatoTracker commit.
@@ -24,6 +25,8 @@ Before anything else:
 
 1. Re-copy changed assets from the kit into `apps/potato-tracker/img/`. Compare with `cmp` and copy only what differs.
 2. Update the affected pages from `copy.md` and `README.md`. Use the copy word for word. Don't invent features or facts.
+   - For legal pages, the facts come from `privacy-facts.md`. Keep the plain-English style, and change the policy's effective date whenever what it says changes.
+   - List anything a lawyer should check, and any change the App Store privacy label or Google Play Data safety form needs, in `~/Documents/happyrose-legal-checklist.md`. That file is outside the repo, so it's never published.
 3. Update **Kit sync** below with today's date, the newest changelog entry applied, and the PotatoTracker commit (`git -C /Users/inakirosa/Documents/PotatoTracker rev-parse --short HEAD`). If you applied uncommitted kit changes, say so there.
 
 ## Rules
@@ -35,6 +38,7 @@ Before anything else:
   - Use the colours in the **Light** column of the kit README (the `.app-potato` tokens in `assets/css/site.css`) and the fonts in the app's `docs/DESIGN.md` (Fredoka for headings, Nunito for text).
 - **Light only for now.** Use `color-scheme: light`, with no `prefers-color-scheme: dark` overrides, dark tokens or theme toggle. The kit README's Dark column is for reference only.
 - **Personal details:** never publish a home address or phone number.
+- **Legal pages:** don't publish anything the app doesn't actually do. Planned features are written as "when you use community features" and must match the app's backend plan (`docs/BACKEND.md` in the app repo).
 - **Email:** app pages use support@happyrose.io, and company pages use hello@happyrose.io.
 - **Commits:** the user makes all git commits. Don't commit or push unless they explicitly ask in that session.
 

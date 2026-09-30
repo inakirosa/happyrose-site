@@ -29,8 +29,8 @@ The company site for Happy Rose LLC (Colorado, formed September 29, 2026), which
 - `/`: company intro, app grid, values, contact
 - `/apps/potato-tracker/`: the product page
 - `/apps/potato-tracker/support/`: FAQ and support@
-- `/apps/potato-tracker/privacy/`: first draft
-- `/apps/potato-tracker/community-guidelines/`: first draft
+- `/apps/potato-tracker/privacy/`: full draft, waiting for a lawyer's review
+- `/apps/potato-tracker/community-guidelines/`: full draft
 - `/privacy/`, `/terms/`, `/support/`: company-wide
 - `/404.html`
 
@@ -43,10 +43,11 @@ The company site for Happy Rose LLC (Colorado, formed September 29, 2026), which
 ## TODO
 
 - [x] Build the site (home, app page, support, first drafts of the legal pages, 404, CNAME, favicon, meta and Open Graph tags)
-- [ ] Legal: inspect the app's SDKs and data, then write the full privacy policy, terms and community guidelines, with lawyer flags and the App Store privacy label and Google Play Data safety answers
+- [x] Legal: full privacy policy, terms and community guidelines, written from the app code and BACKEND.md. The lawyer notes and store form answers are in `~/Documents/happyrose-legal-checklist.md`, outside the repo
+- [ ] Lawyer review of the legal pages
 - [ ] Screenshots: add a phone-frame grid once the 8 shots are in `PotatoTracker/marketing/website-kit/screenshots/` (WebP plus a fallback)
 - [x] Light only, with CLAUDE.md for syncing the kit (first sync on 2026-09-29)
-- [ ] Deploy: GitHub repo, Pages, Cloudflare DNS (apex and www), domain verification, Enforce HTTPS
+- [x] Deploy: GitHub repo, Pages, Cloudflare DNS (apex and www), domain verification, Enforce HTTPS
 - [ ] Email: Cloudflare Email Routing for hello@, support@ and inaki@. Sending from Gmail or iCloud+
 - [ ] Apple readiness check (D-U-N-S case 11043942). Put Happy Rose LLC as the organization on the domain's registrant contact
 - [ ] Launch day: Apple's badge plus the App Store link, and a TestFlight note if needed
