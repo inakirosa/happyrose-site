@@ -6,7 +6,7 @@
 @font-face { font-family: "Fredoka"; src: url("../fonts/fredoka_semibold.ttf") format("truetype"); font-weight: 600; font-display: swap; }
 
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
   --bg: #FFF9F6;
   --surface: #FFFFFF;
   --tint: #FCE8EC;
@@ -26,20 +26,6 @@
   --gutter: 16px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #1B1317;
-    --surface: #271C22;
-    --tint: #3A2530;
-    --text: #F6E8EC;
-    --muted: #C9ADB8;
-    --accent: #F28CA6;
-    --accent-strong: #F28CA6;
-    --on-accent: #2A1520;
-    --line: #3D2C34;
-    --focus: #F28CA6;
-  }
-}
 
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -163,20 +149,6 @@ a:hover { text-decoration-thickness: .14em; }
   --focus: #8B5E34;
   --font-display: "Fredoka", "Nunito", system-ui, sans-serif;
   --display-weight: 600;
-}
-@media (prefers-color-scheme: dark) {
-  .app-potato {
-    --bg: #1E1813;
-    --surface: #2A221B;
-    --tint: #4A3521;
-    --text: #F1E7D8;
-    --muted: #BCAB95;
-    --accent: #C9955A;
-    --accent-strong: #F07A70;
-    --on-accent: #3B2A1E;
-    --line: #3E3329;
-    --focus: #C9955A;
-  }
 }
 .app-hero { padding: 36px 0 8px; }
 .app-title { display: flex; align-items: center; gap: 14px; margin-bottom: 18px; }

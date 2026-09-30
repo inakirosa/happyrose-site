@@ -21,6 +21,7 @@ The company site for Happy Rose LLC (Colorado, formed September 29, 2026), which
 | D9 | Fonts | Nunito and Fredoka, self-hosted from `assets/fonts` (SIL OFL, licences included), so no Google Fonts requests |
 | D10 | Potato Tracker content | Copy and art come from `PotatoTracker/marketing/website-kit` (fact-checked against the app). Approved wording is in `PotatoTracker/docs/APPROVED.md`, and "potato points" is always spelled out |
 | D11 | 404 | Uses the app's style: the dropped-potato art and "Well, that's a hot potato." |
+| D13 | Theme | Light only for now (kit changelog, 2026-09-29). There's no dark mode anywhere on the site |
 | D12 | Store button | A "Coming soon to the App Store" button with no link yet. On launch day, swap in Apple's official badge with the real link |
 
 ## Pages
@@ -44,6 +45,7 @@ The company site for Happy Rose LLC (Colorado, formed September 29, 2026), which
 - [x] Build the site (home, app page, support, first drafts of the legal pages, 404, CNAME, favicon, meta and Open Graph tags)
 - [ ] Legal: inspect the app's SDKs and data, then write the full privacy policy, terms and community guidelines, with lawyer flags and the App Store privacy label and Google Play Data safety answers
 - [ ] Screenshots: add a phone-frame grid once the 8 shots are in `PotatoTracker/marketing/website-kit/screenshots/` (WebP plus a fallback)
+- [x] Light only, with CLAUDE.md for syncing the kit (first sync on 2026-09-29)
 - [ ] Deploy: GitHub repo, Pages, Cloudflare DNS (apex and www), domain verification, Enforce HTTPS
 - [ ] Email: Cloudflare Email Routing for hello@, support@ and inaki@. Sending from Gmail or iCloud+
 - [ ] Apple readiness check (D-U-N-S case 11043942). Put Happy Rose LLC as the organization on the domain's registrant contact
